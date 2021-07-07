@@ -1,6 +1,6 @@
 # Networking-coursework
 
-This networking assignment is a part of the **Computer Networks** course taken during my undergraduation. It was supervised by [Dr. Mahfuzulhoq Chowdhury] (https://www.researchgate.net/scientific-contributions/Mahfuzulhoq-Chowdhury-2105068852). 
+This networking assignment is a part of the **Computer Networks** course taken during my undergraduation. It was supervised by [Dr. Mahfuzulhoq Chowdhury](https://www.researchgate.net/scientific-contributions/Mahfuzulhoq-Chowdhury-2105068852). 
 
 ### Objective
 
